@@ -1,0 +1,26 @@
+# Deep Learning
+torch
+torchvision
+
+# CLIP model
+ftfy
+regex
+tqdm
+git+https://github.com/openai/CLIP.git
+
+# Image processing
+Pillow
+
+# Numerical computation
+numpy
+
+# Data handling and evaluation
+pandas
+scipy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Progress bars
